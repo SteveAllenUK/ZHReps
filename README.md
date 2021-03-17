@@ -1,2 +1,2 @@
 # ZHReps
-Crawler for Zero Hour replay infomation.
+Crawler for Zero Hour replay information.
